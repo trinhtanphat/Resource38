@@ -1,0 +1,1083 @@
+{
+  "family": "Gunny-v389/5-year",
+  "sourceRoot": "E:\\Gunny\\Resource38\\image",
+  "count": 178,
+  "files": [
+    {
+      "relativePath": "arm/Bcrossbow/00.png",
+      "size": 3361,
+      "sha256": "1D9A8BF78B4482DDD63FC2EBC3D1B1DFC095E025F547D3ED7C429DDE6E32C410",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bcrossbow\\00.png"
+    },
+    {
+      "relativePath": "arm/Bcrossbow2/00.png",
+      "size": 3529,
+      "sha256": "4E4FE33525F2F499DBB6A7794721F77A3922536218F426F378A9B74914E2A0D4",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bcrossbow2\\00.png"
+    },
+    {
+      "relativePath": "arm/Bcrossbow3/00.png",
+      "size": 3877,
+      "sha256": "6B40F43837770F857C42B3FA9EA4275A9284234FCBC5E131BB3CC8747840D56E",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bcrossbow3\\00.png"
+    },
+    {
+      "relativePath": "arm/Bcrossbow4/00.png",
+      "size": 3974,
+      "sha256": "A5402991019C4512D6309B0A53B77198FCC49D053C76CAEA013B8ED9B88E5ABC",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bcrossbow4\\00.png"
+    },
+    {
+      "relativePath": "arm/Bcrossbow5/00.png",
+      "size": 3821,
+      "sha256": "3DC795E663283E13F868344FC3FA008B05428DBB82D270C8DFB1EF4D7342E461",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bcrossbow5\\00.png"
+    },
+    {
+      "relativePath": "arm/Bslingshot/00.png",
+      "size": 4374,
+      "sha256": "044CE6B7B0E795A1B364AC934840774AA4832CD2445DCDDF69E593D88A5836B6",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bslingshot\\00.png"
+    },
+    {
+      "relativePath": "arm/Bslingshot2/00.png",
+      "size": 5116,
+      "sha256": "2CBBD537BB174B5F0D084B8B701CD84444B534BAB3590F4609815A92482F5430",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bslingshot2\\00.png"
+    },
+    {
+      "relativePath": "arm/Bslingshot3/00.png",
+      "size": 5408,
+      "sha256": "8A4B7EFF4E55FB339329C2F96C2CBF7CC76A3F4F72F633013883C2BAB5521289",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bslingshot3\\00.png"
+    },
+    {
+      "relativePath": "arm/Bslingshot4/00.png",
+      "size": 5441,
+      "sha256": "C644C79FCD83C63E69F3B34F0E50DA3BF04D824688D6FE8DE553FBCC86723FB2",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bslingshot4\\00.png"
+    },
+    {
+      "relativePath": "arm/Bslingshot5/00.png",
+      "size": 4195,
+      "sha256": "85E26990533627AA5ECC1A862D35ACDDE593CDC9A270DDF80DCA76E5BEF5F370",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Bslingshot5\\00.png"
+    },
+    {
+      "relativePath": "arm/Football/00.png",
+      "size": 3604,
+      "sha256": "82769A6C0861A0DA2BEF55C44855B217C90FB1E1AACAE66A9BD3BBAE1439103F",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Football\\00.png"
+    },
+    {
+      "relativePath": "arm/Football2/00.png",
+      "size": 3700,
+      "sha256": "36B82FBCD21F8382E92E2A47A9F7C32E7AA01A3775EA6FF62011BBF85FF8F51D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Football2\\00.png"
+    },
+    {
+      "relativePath": "arm/Football3/00.png",
+      "size": 3707,
+      "sha256": "008C40704EA6B78A21261A266779D9459FE7B7A3BBC9E3700E3E7D0BB0821917",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Football3\\00.png"
+    },
+    {
+      "relativePath": "arm/Football4/00.png",
+      "size": 2716,
+      "sha256": "4246DB8BD4619155072A1F928DF6D870A378D5F3637B577D1D4F403CA9F61DFD",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Football4\\00.png"
+    },
+    {
+      "relativePath": "arm/Football5/00.png",
+      "size": 4479,
+      "sha256": "9AC19CE46FD46DD8F3C850D5C88261B27DE4C2D24D8CE30ADD4B405836B8B9F6",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Football5\\00.png"
+    },
+    {
+      "relativePath": "arm/OPSbox/00.png",
+      "size": 3319,
+      "sha256": "932C6D4BFC8BAA34BE777D1EE939DAA6827F59BC619413B8830B965D1904024B",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\OPSbox\\00.png"
+    },
+    {
+      "relativePath": "arm/OPSbox2/00.png",
+      "size": 4307,
+      "sha256": "B94462E14DC1D627AC339E146193E8BF11A4FE063BE2DA9067E8AAE4B9B606BB",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\OPSbox2\\00.png"
+    },
+    {
+      "relativePath": "arm/OPSbox3/00.png",
+      "size": 4689,
+      "sha256": "0EE13C77590922D8E34921E98C4AAD8858A78829CA33A1301A540D4B92BB1B6D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\OPSbox3\\00.png"
+    },
+    {
+      "relativePath": "arm/OPSbox4/00.png",
+      "size": 4567,
+      "sha256": "A5495A5FC4B323ACEB41EA8149ED466F1CA66325AA186A15FC29E094B8024E1B",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\OPSbox4\\00.png"
+    },
+    {
+      "relativePath": "arm/OPSbox6/00.png",
+      "size": 4985,
+      "sha256": "F033FB7940A1792EEBA94DC0DF966524FBB1BAC287EAF9ABA36B054C42A9B499",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\OPSbox6\\00.png"
+    },
+    {
+      "relativePath": "arm/SFootball/00.png",
+      "size": 5278,
+      "sha256": "8BF1CFB664952138E9777E40333DB512D8A965EA855FE6083E7754AFC6E371A6",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SFootball\\00.png"
+    },
+    {
+      "relativePath": "arm/SFootball2/00.png",
+      "size": 5153,
+      "sha256": "B3C8F04C2F0553372AA8881E8FF50A4C20F71EF6ECDB7D972C3E9B774D13034E",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SFootball2\\00.png"
+    },
+    {
+      "relativePath": "arm/SFootball3/00.png",
+      "size": 5161,
+      "sha256": "7761FF1AF526AFF2C8BAB759CD892328F137E6FDDF14644CAF72CCCB363E4CFE",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SFootball3\\00.png"
+    },
+    {
+      "relativePath": "arm/SFootball4/00.png",
+      "size": 11687,
+      "sha256": "52B8F5AC73932823FCCDF230D4F234341A272C82B9BF79939C0242408FF40920",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SFootball4\\00.png"
+    },
+    {
+      "relativePath": "arm/SFootball5/00.png",
+      "size": 3942,
+      "sha256": "3D068F2B85DD1DF4D5890E80E293CEA8F1B9831F445D94E23E451164FCDE9C9F",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SFootball5\\00.png"
+    },
+    {
+      "relativePath": "arm/SSmaya1/00.png",
+      "size": 3058,
+      "sha256": "477FFD19A65E66846004BCA2420B2CADEF17C6949A2AF9AE9B0BB64C88062B68",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSmaya1\\00.png"
+    },
+    {
+      "relativePath": "arm/SSmaya2/00.png",
+      "size": 3382,
+      "sha256": "D5EB65B9FC91C91470F3AF26F8996A21D7B4CDF21B1C14D223B5F9ACE95B3C30",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSmaya2\\00.png"
+    },
+    {
+      "relativePath": "arm/SSmaya3/00.png",
+      "size": 3910,
+      "sha256": "54BF1B64F13711B2746F91183B99CD85870A37C776C81EE7DFFC8B5120287566",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSmaya3\\00.png"
+    },
+    {
+      "relativePath": "arm/SSmaya4/00.png",
+      "size": 4004,
+      "sha256": "52A77F94DF9F35AD5A66CD0BB969AE76EC4ED647CFF84D5D1C69156D6DEFE89B",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSmaya4\\00.png"
+    },
+    {
+      "relativePath": "arm/SSmaya5/00.png",
+      "size": 4186,
+      "sha256": "79E27C4A51FF57F36791A8E431D6A41BC03BAA2E54631F0B6385CAC56589D8D0",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSmaya5\\00.png"
+    },
+    {
+      "relativePath": "arm/SSsword/00.png",
+      "size": 5319,
+      "sha256": "41F89A07DA087BAD7425CAA1E3906D666437EC47A9B96363E09F51A183CFDE54",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSsword\\00.png"
+    },
+    {
+      "relativePath": "arm/SSsword2/00.png",
+      "size": 5338,
+      "sha256": "A30E975A238A02B89BB189EAC9A700BFD7A0A33763922B4DFF72D2384D1ABAD1",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSsword2\\00.png"
+    },
+    {
+      "relativePath": "arm/SSsword3/00.png",
+      "size": 5295,
+      "sha256": "0B468CBC8D67B415598E33BD4A36098678B02F7E2395B5834C878E65394E3793",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSsword3\\00.png"
+    },
+    {
+      "relativePath": "arm/SSsword4/00.png",
+      "size": 5237,
+      "sha256": "7C9171B097B8DF191ABF88617DB05411CBAA2EA89FEC4EB67B397EE6DC9BF81D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSsword4\\00.png"
+    },
+    {
+      "relativePath": "arm/SSsword5/00.png",
+      "size": 5422,
+      "sha256": "5CE96B329C0911449AA78E55F557253B54DCFC6A333068E64AFFA2BF7EE2E455",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\SSsword5\\00.png"
+    },
+    {
+      "relativePath": "arm/Sbamboo/00.png",
+      "size": 5646,
+      "sha256": "EB8BE18941C9EF8DC6CB537A1BEDB3E3EF701EC8A11B747792786EB8742B0E91",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sbamboo\\00.png"
+    },
+    {
+      "relativePath": "arm/Sbamboo2/00.png",
+      "size": 5589,
+      "sha256": "C70844367BA0666018389ADD344F02F3114ACE12381DEBC74F04638F9659E014",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sbamboo2\\00.png"
+    },
+    {
+      "relativePath": "arm/Sbamboo3/00.png",
+      "size": 5700,
+      "sha256": "9E70E1E002473DA38DC26D55AAA80EA7B72F05CB8E6AC5F9B28400A6AB0B143D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sbamboo3\\00.png"
+    },
+    {
+      "relativePath": "arm/Sbamboo4/00.png",
+      "size": 5803,
+      "sha256": "C348354256E87872567457C1718199B141D0FC79B2F970D9985E1AA7F571E41B",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sbamboo4\\00.png"
+    },
+    {
+      "relativePath": "arm/Sbamboo5/00.png",
+      "size": 5853,
+      "sha256": "3D11143BA9006216C58460BE9F83A42A817C1B5704BF60E7F70CA8D270883949",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sbamboo5\\00.png"
+    },
+    {
+      "relativePath": "arm/Scrossbow/00.png",
+      "size": 4546,
+      "sha256": "E51F99DEC8DFC7E8F0738EF12E8ED2F2F5DAAA8A21115156732130F3FB01C0BB",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Scrossbow\\00.png"
+    },
+    {
+      "relativePath": "arm/Scrossbow2/00.png",
+      "size": 4609,
+      "sha256": "10A7918B7FD080C776B7131850DD1B9D383FB1AC647C4DEDAC0B71C3C2BEDA81",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Scrossbow2\\00.png"
+    },
+    {
+      "relativePath": "arm/Scrossbow3/00.png",
+      "size": 4672,
+      "sha256": "BDD0BD18849B13BFAF997B3D362F1566458CCD27CB4362405A75416D0D781E61",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Scrossbow3\\00.png"
+    },
+    {
+      "relativePath": "arm/Scrossbow4/00.png",
+      "size": 4823,
+      "sha256": "FA61E7FBAD3F64736FC7F718BC22290C4E48D4DC33953FAF470FC700B548BB8E",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Scrossbow4\\00.png"
+    },
+    {
+      "relativePath": "arm/Scrossbow5/00.png",
+      "size": 4853,
+      "sha256": "949CD200F08C4AF8AE7AC938B9721AFE438FB9ABA1D97A1B7A7DD53612D1F703",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Scrossbow5\\00.png"
+    },
+    {
+      "relativePath": "arm/Shook1/00.png",
+      "size": 4556,
+      "sha256": "F1DF51201DE83E132D0073A3F68DF30CEE1EA1FF97F0126EA64026A7B76EA375",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Shook1\\00.png"
+    },
+    {
+      "relativePath": "arm/Shook2/00.png",
+      "size": 4625,
+      "sha256": "8AD86A14BFEACB4404EDBCAFF736D8CAE4A8C164D864AE1438075E4592A9FB97",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Shook2\\00.png"
+    },
+    {
+      "relativePath": "arm/Shook3/00.png",
+      "size": 4544,
+      "sha256": "9C0A38D293F8AA6590ABD12D4EF6558649D91D97F99A6894EC9C596043A5FA41",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Shook3\\00.png"
+    },
+    {
+      "relativePath": "arm/Shook4/00.png",
+      "size": 4726,
+      "sha256": "B89FF0A9AA967CD5ACC56ADD8C28B7F50F24A0E1416739CCB05AFDCBB0192F88",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Shook4\\00.png"
+    },
+    {
+      "relativePath": "arm/Shook5/00.png",
+      "size": 4810,
+      "sha256": "2529ECB8E731E11002C151005D562A2E7B3875492A38541E20F653EF7B8BF13D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Shook5\\00.png"
+    },
+    {
+      "relativePath": "arm/Sicecream/00.png",
+      "size": 5255,
+      "sha256": "095C04C721DD1A9E6FC9D766B62329DFF8296D786813000087125A9E80552317",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sicecream\\00.png"
+    },
+    {
+      "relativePath": "arm/Sicecream2/00.png",
+      "size": 5380,
+      "sha256": "F95E0956CE8610359F16861E6307168562C889C0505B56F74B38FC6D8D05027D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sicecream2\\00.png"
+    },
+    {
+      "relativePath": "arm/Sicecream3/00.png",
+      "size": 5454,
+      "sha256": "18C06E5A29A2E9B1404E513817FE5B8DA13FAC93D0006623496B9E6D6958E3FB",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sicecream3\\00.png"
+    },
+    {
+      "relativePath": "arm/Sicecream4/00.png",
+      "size": 5690,
+      "sha256": "FA4F48054F01695506D22D70529FCDA1076776773C4F5B3B98962DEC212FADA7",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sicecream4\\00.png"
+    },
+    {
+      "relativePath": "arm/Sicecream5/00.png",
+      "size": 4693,
+      "sha256": "EB5205BD588153CA8BDC49809B9843231A48EDD81ADC9D731FBE534F6BFA8878",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Sicecream5\\00.png"
+    },
+    {
+      "relativePath": "arm/Smaya1/00.png",
+      "size": 4619,
+      "sha256": "D7277F213D1EB3868961A371A8AD870CBDFC67FB1B0ACC20C7421E1221159605",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Smaya1\\00.png"
+    },
+    {
+      "relativePath": "arm/Smaya2/00.png",
+      "size": 4584,
+      "sha256": "EE0DC74722959CACA1959FB77D9CCD3CA7713F9D035F7000BA11FFA43608AE8C",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Smaya2\\00.png"
+    },
+    {
+      "relativePath": "arm/Smaya3/00.png",
+      "size": 4852,
+      "sha256": "E80187E25BBC16CA8CC9C78047247E11CF8FE25E1C295FC391CE40B04BFAF842",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Smaya3\\00.png"
+    },
+    {
+      "relativePath": "arm/Smaya4/00.png",
+      "size": 4909,
+      "sha256": "844CCFF97A268C317F14496F1360CFD70A8E16466509D7F8A0BC9D051633ECBD",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Smaya4\\00.png"
+    },
+    {
+      "relativePath": "arm/Smaya5/00.png",
+      "size": 5041,
+      "sha256": "0D1C7A22687619657E00ECDD93A79335EF926CA880A4E8266777B2B8A7C04E73",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Smaya5\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssnowman/00.png",
+      "size": 5144,
+      "sha256": "96503E62E85BA1C54EE76B9E4892EB012FA90AB28DAFBD1EF13E83A029D946E0",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssnowman\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssnowman2/00.png",
+      "size": 5209,
+      "sha256": "ED3724134EE7CDEE6E31344873F1E2AC57FE56D32C18F981E614A8AAC7B514A1",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssnowman2\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssnowman3/00.png",
+      "size": 5371,
+      "sha256": "125427C23DA2BB8FD58AB376F32146AF27C9F653EF61CD97897784F94AD1894B",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssnowman3\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssnowman4/00.png",
+      "size": 5615,
+      "sha256": "045A166E9BB2E0A6A6876585011F23FAB16933E558560A2D3A6C48236971D89A",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssnowman4\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssnowman5/00.png",
+      "size": 5667,
+      "sha256": "0A28705B3F1DFC579B4F218A070CC472F8EC3B36EE99D6538F3F94AEAF64DC10",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssnowman5\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssushi/00.png",
+      "size": 5274,
+      "sha256": "52D4822CC0EC6AE2E6E2810F3F9C26A5F837E510B149DFE51EF80C57E152D726",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssushi\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssushi2/00.png",
+      "size": 5132,
+      "sha256": "31627B925F0264EF46D66352276A3301B7BEA3403D29B3B700F948193226CB7A",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssushi2\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssushi3/00.png",
+      "size": 5326,
+      "sha256": "63E9E32D5D003BD62106B4DDF299BE5CA5A717C1D9AF36EF5D5D8237A17CD707",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssushi3\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssushi4/00.png",
+      "size": 4196,
+      "sha256": "FEC570D24D4773EF95DE10F01A8C04A2CDFA9885BFE83A4D67E5624E068E8880",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssushi4\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssushi5/00.png",
+      "size": 4590,
+      "sha256": "5320BC290D4CD43EE855C556D74C186C7123D1746DCF866A86E7AC6F6973524C",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssushi5\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssword/00.png",
+      "size": 4384,
+      "sha256": "CDA71413800542F55F7AD7705801D3C3F51289D713F36863939F5982DA117F62",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssword\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssword2/00.png",
+      "size": 4490,
+      "sha256": "88ABEF063A10D4768091F661F2BA01E541BBAE157E8BF67EA526512239D32985",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssword2\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssword3/00.png",
+      "size": 4405,
+      "sha256": "F75EBED7F5EC60472FDD803383FE089C13270291D6953056FC3902DC7CCD495D",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssword3\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssword4/00.png",
+      "size": 4337,
+      "sha256": "4E2B94FBC5D95ADC739C6216D0DE12171BA66A67BEA88053DDEF1FB0F00790AD",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssword4\\00.png"
+    },
+    {
+      "relativePath": "arm/Ssword5/00.png",
+      "size": 4629,
+      "sha256": "A2624C040AD819A8DE62C9B9A405C3B3F5D66EC7C8A63D4B862711B4B31DBAEA",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Ssword5\\00.png"
+    },
+    {
+      "relativePath": "arm/Stree/00.png",
+      "size": 4613,
+      "sha256": "0D08826C58535F8FB01A49582708BAE2CF7FA70A6C010F9902FDFC08B0B2F7BA",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Stree\\00.png"
+    },
+    {
+      "relativePath": "arm/Stree2/00.png",
+      "size": 4809,
+      "sha256": "8EF40C24100037F1ED0D3FDEB7CDA7F2BB0E5468064C8B4261C00B0E547B45A7",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Stree2\\00.png"
+    },
+    {
+      "relativePath": "arm/Stree3/00.png",
+      "size": 4846,
+      "sha256": "79688B0D93A895CC7BE798DF7B59D3E5D47B0ADBDDD5D4F3B238FA2C33E70AC3",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Stree3\\00.png"
+    },
+    {
+      "relativePath": "arm/Stree4/00.png",
+      "size": 4819,
+      "sha256": "28D95F4FB60593495B093EF57BAE35B5F8F3E2FBC6E5D34F6DC1350B9D950CFA",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Stree4\\00.png"
+    },
+    {
+      "relativePath": "arm/Stree5/00.png",
+      "size": 4851,
+      "sha256": "05EFC351867585733DBD71BCD2404FAB62735B4E397BFA92A15711A57FC3CE7E",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Stree5\\00.png"
+    },
+    {
+      "relativePath": "arm/Strident/00.png",
+      "size": 4602,
+      "sha256": "0DA55E3EFFD2094D597B884471B0BDDABA0053B965C93E5233F3FF6F3C622A7A",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Strident\\00.png"
+    },
+    {
+      "relativePath": "arm/Strident2/00.png",
+      "size": 4329,
+      "sha256": "7B4ADF69237AA73CFE2AB49276B79BDE08CAA6E682B0CB58E01D3209877A98E3",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Strident2\\00.png"
+    },
+    {
+      "relativePath": "arm/Strident3/00.png",
+      "size": 4278,
+      "sha256": "65B3E78CF79A14836C0FFB01D1A59FDD534D15FDB782E51A28C4A8D246D9A95E",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Strident3\\00.png"
+    },
+    {
+      "relativePath": "arm/Strident4/00.png",
+      "size": 4275,
+      "sha256": "4630DACDC960E40533AAE99B162EFA5992D040EC539C4A9F3B733FE994D3CE44",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Strident4\\00.png"
+    },
+    {
+      "relativePath": "arm/Strident5/00.png",
+      "size": 4150,
+      "sha256": "6A9888F0A877D6D6F7B997AA8F530992B20733A64F96AAEA7E717E8579DCA845",
+      "source": "E:\\Gunny\\Resource38\\image\\arm\\Strident5\\00.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet1/icon.png",
+      "size": 10527,
+      "sha256": "7A54DF98D8E38E7EC8CA7472EC90DAD1ACB753E2F1B2B34C7BAF8E8C2FE338DF",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet1\\icon.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet2/icon.png",
+      "size": 11924,
+      "sha256": "38FC67C868910FA3535CED0A78E85688983A34E779839B29C30FB77BE11F7F69",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet2\\icon.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet3/icon.png",
+      "size": 12308,
+      "sha256": "8824BBEAE81406EA69B6665CE2D75E0B0FBBC66C306724F8C4BACC4AD169C1CB",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet3\\icon.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet4/icon.png",
+      "size": 12368,
+      "sha256": "927D61DAC0FEFCDC32E815C3A6F5590BB752419C6D738C3BCA1CB33DBB6F5317",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet4\\icon.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet5/icon.png",
+      "size": 13117,
+      "sha256": "C73F85DE079D1B8B58E8B53E42D35CA4635022ADAE6EA5F22AA7E584D29C3400",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet5\\icon.png"
+    },
+    {
+      "relativePath": "equip/armlet/ShivaBracelet6/icon.png",
+      "size": 14544,
+      "sha256": "7E2AAE7E23E8F8BAD2B0B68C974AF2497437D4277FEC70D287DB9B0E4119E908",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\armlet\\ShivaBracelet6\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing1/icon.png",
+      "size": 7073,
+      "sha256": "B101FF8CCC96BE19AD3515BE72B51B3E597D031BB5BF963397C8DB1E7C6C4575",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing1\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing2/icon.png",
+      "size": 9081,
+      "sha256": "9E92B7958AC3ABD5EF117F1E0CA4B8498113AAA4AE7B2AE4D60E3C00F9CC2C90",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing2\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing3/icon.png",
+      "size": 14389,
+      "sha256": "9472B3991579ED8D220FC37A6E415BEA626E7476CD29A95B3746C101D33C42CF",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing3\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing4/icon.png",
+      "size": 15312,
+      "sha256": "75072249513FE32778FA72CB1AB1DF19315EBB61951715C64388D68EEC7E1A45",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing4\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing5/icon.png",
+      "size": 14739,
+      "sha256": "9F1D3EACDD05EB65E8F2638AF3B1476B15308F54F5EAC6C4EB4152920FDC80B2",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing5\\icon.png"
+    },
+    {
+      "relativePath": "equip/ring/HyperionRing6/icon.png",
+      "size": 14778,
+      "sha256": "0FA28BD447ACBFFA673FDF11C9875E761785749BE4FA8976D357F07800E803CB",
+      "source": "E:\\Gunny\\Resource38\\image\\equip\\ring\\HyperionRing6\\icon.png"
+    },
+    {
+      "relativePath": "gift/Accountmooncakes/icon.png",
+      "size": 5099,
+      "sha256": "DC4D6EDA3263528AA61169AE7E11AD9FD20A2D218D6AC21E6B0108E92F7883F5",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Accountmooncakes\\icon.png"
+    },
+    {
+      "relativePath": "gift/Adaruma/icon.png",
+      "size": 4451,
+      "sha256": "75759075F810ABA62815A924D8B1D03CF00930ED515040BFF0F52BB19C2A02AF",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Adaruma\\icon.png"
+    },
+    {
+      "relativePath": "gift/BellLAN/icon.png",
+      "size": 11516,
+      "sha256": "A50B3A88F5AB11CFFD3994A7E65DE855EC4C05324BC9AFB07FE44B33522DB1E4",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\BellLAN\\icon.png"
+    },
+    {
+      "relativePath": "gift/Birthdaycake/icon.png",
+      "size": 5022,
+      "sha256": "DFDEB469A27B669F396F910C587D9CCBDCE24A8F8CED9AEC0F14737E4BB6DB0B",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Birthdaycake\\icon.png"
+    },
+    {
+      "relativePath": "gift/Blueberrymousse/icon.png",
+      "size": 3025,
+      "sha256": "7B104BDAAE7568481D0C192534684094B4A10F31E3E53B83CADB19F905D18708",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Blueberrymousse\\icon.png"
+    },
+    {
+      "relativePath": "gift/Bumpercar/icon.png",
+      "size": 4284,
+      "sha256": "9F6D8B2BEF013603E80816908F900C8E72B48BB7D1D025878E9900A56159E25E",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Bumpercar\\icon.png"
+    },
+    {
+      "relativePath": "gift/Cheesecake/icon.png",
+      "size": 4493,
+      "sha256": "FAFF667AAF3A24C8991C3ACCCD4208996393D8C1B7AF28A55F7809ED540D6430",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Cheesecake\\icon.png"
+    },
+    {
+      "relativePath": "gift/Chocolatebread/icon.png",
+      "size": 4224,
+      "sha256": "F34E9586CA35B02B3FD9A2DBD8C09EABE01948737A1C4E9A146F874F1A18398D",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Chocolatebread\\icon.png"
+    },
+    {
+      "relativePath": "gift/Chocolatecakes/icon.png",
+      "size": 4710,
+      "sha256": "D863FFD14200F27D926B09EF6B7939E8B5AC0F2E1B9807D0AA2540A23B47FB91",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Chocolatecakes\\icon.png"
+    },
+    {
+      "relativePath": "gift/Chocolatecovered/icon.png",
+      "size": 4593,
+      "sha256": "9FB9779016700BD660B0174F139C6DF097B43C74CF97F65378253AC351D3DB1F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Chocolatecovered\\icon.png"
+    },
+    {
+      "relativePath": "gift/Christinacaka/icon.png",
+      "size": 4598,
+      "sha256": "0D2BE9DB28AFDE2E96911DD25C7CA12FAEF9C056EFB7BC6B27DDE94F97DCD936",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Christinacaka\\icon.png"
+    },
+    {
+      "relativePath": "gift/Christmascandy/icon.png",
+      "size": 4829,
+      "sha256": "D1E8D5E9E21105BCF7E2D57E46B3C31A27E211861C9140D6919210EF1B21632C",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Christmascandy\\icon.png"
+    },
+    {
+      "relativePath": "gift/Christmastree/icon.png",
+      "size": 3765,
+      "sha256": "2C46CE537671FA0FE125AF943CE2E244FAF263AE020E9C230135289DAFDF26E9",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Christmastree\\icon.png"
+    },
+    {
+      "relativePath": "gift/Christmaswreath/icon.png",
+      "size": 4406,
+      "sha256": "6DB72D7931960CC27CFC0459563EA969D15EFB3917504D2AF592F18638AFF3B9",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Christmaswreath\\icon.png"
+    },
+    {
+      "relativePath": "gift/Courtshipsignedon/icon.png",
+      "size": 3737,
+      "sha256": "6236EDFB81656681DBD579AA0BF7D0CC51C75E2B81957AB75FBA4952F4C5E4E2",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Courtshipsignedon\\icon.png"
+    },
+    {
+      "relativePath": "gift/DOIRperfume/icon.png",
+      "size": 4213,
+      "sha256": "64C424A1B7B03519AD3D2B62B0D3EC0B445EE4D08E3DF15B1797F2D1D352706F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\DOIRperfume\\icon.png"
+    },
+    {
+      "relativePath": "gift/Doodlepig/icon.png",
+      "size": 12275,
+      "sha256": "CE803E92D5DBAB942DFCF7B7E2DDBF503785FDF7AD71946F52E157C6DBA33FF9",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Doodlepig\\icon.png"
+    },
+    {
+      "relativePath": "gift/Dragonboat/icon.png",
+      "size": 4816,
+      "sha256": "6CB31F4E1F03776C4780A1FCE29805B7CA23348520EF6993997D859CBB8D65E3",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Dragonboat\\icon.png"
+    },
+    {
+      "relativePath": "gift/Expensiveperfume/icon.png",
+      "size": 9021,
+      "sha256": "62D40A83699479A5FC842F7EE25D7141798617213C33F7E24CDCE65DC2CA43B2",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Expensiveperfume\\icon.png"
+    },
+    {
+      "relativePath": "gift/FireCracker/icon.png",
+      "size": 4645,
+      "sha256": "87839F1A71D9A611E028258BDC1E103837659950039802BB35508ED78852A4E8",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\FireCracker\\icon.png"
+    },
+    {
+      "relativePath": "gift/Flameracing/icon.png",
+      "size": 3562,
+      "sha256": "0B7D424D37F3A77B40D6EBC81F8DC9FE53EB390929F32C6C80BB4F41CBDB3ACA",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Flameracing\\icon.png"
+    },
+    {
+      "relativePath": "gift/Fourleaf/icon.png",
+      "size": 11432,
+      "sha256": "8C90CB81375BB41F0E4345E527241A9EFF805C26645D9F1450CE5D1F364282F8",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Fourleaf\\icon.png"
+    },
+    {
+      "relativePath": "gift/Glutinousriceballs/icon.png",
+      "size": 12596,
+      "sha256": "506C393654806527BC5D43A8F7327E9B4DE218B34F906EDCC5484B11A88611CC",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Glutinousriceballs\\icon.png"
+    },
+    {
+      "relativePath": "gift/Godbeast/icon.png",
+      "size": 3705,
+      "sha256": "2AF65983937AD7E31998E2C61185E926DDE4F74BAC5E095B24EC3E785F75C729",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Godbeast\\icon.png"
+    },
+    {
+      "relativePath": "gift/GoodLuck/icon.png",
+      "size": 3913,
+      "sha256": "AB853A4DC12A91434AB6FCF812D27CA1D173AA48E4D6FFFB0370BFEB7C66047F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\GoodLuck\\icon.png"
+    },
+    {
+      "relativePath": "gift/Halloween/icon.png",
+      "size": 4206,
+      "sha256": "534ACEB9D7E332360FE002AE2CF12948455FEAF6D21BA67DFC9FAE154119696F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Halloween\\icon.png"
+    },
+    {
+      "relativePath": "gift/Heartbox/icon.png",
+      "size": 3685,
+      "sha256": "47E1DEAFA83F1AD478B23F76B89616201448D9B80CAB58F2634CB327B9A3D0CD",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Heartbox\\icon.png"
+    },
+    {
+      "relativePath": "gift/Heartshapedrose/icon.png",
+      "size": 4212,
+      "sha256": "405E05B93BCF4520942F98E269BFE1B28416173E685F53914AF5A4CDE9DBBCCE",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Heartshapedrose\\icon.png"
+    },
+    {
+      "relativePath": "gift/Holdpillow/icon.png",
+      "size": 5017,
+      "sha256": "348D25706A8A02C58FBDA6D6B4074349301AEEE04CC82FE23236EE4C8F2EC76A",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Holdpillow\\icon.png"
+    },
+    {
+      "relativePath": "gift/Huangchanflowers/icon.png",
+      "size": 4617,
+      "sha256": "D968F9100B5BB97D58A42748F49F511A00EC787872CFB2E82FD10605348EBB83",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Huangchanflowers\\icon.png"
+    },
+    {
+      "relativePath": "gift/JunLusatchel/icon.png",
+      "size": 4421,
+      "sha256": "808ACB744F2D2ED279DE2A19C79AF0B21122F255D30A805EA3109D020A842E66",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\JunLusatchel\\icon.png"
+    },
+    {
+      "relativePath": "gift/LaiSee/icon.png",
+      "size": 4620,
+      "sha256": "403E999C440952A2D2AEC9C38CF2BEB563A94FDEBAECC1E84F8D19AF545DDE5E",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\LaiSee\\icon.png"
+    },
+    {
+      "relativePath": "gift/Learnedtulips/icon.png",
+      "size": 4035,
+      "sha256": "E992C4FE546860A1FD2A6695665D2D8819DA8FF0C09E9020ED251976671F375D",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Learnedtulips\\icon.png"
+    },
+    {
+      "relativePath": "gift/LittleDaisy/icon.png",
+      "size": 5446,
+      "sha256": "CAA5C0F820394ED0FC09C32D91173B218214531AD040ED5834FD19EEA902453A",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\LittleDaisy\\icon.png"
+    },
+    {
+      "relativePath": "gift/Littlebeartoy/icon.png",
+      "size": 4440,
+      "sha256": "B171BD35F5B2170EDA29E23AB674C24602B4D310DCCBF758100ECBD7931F5619",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Littlebeartoy\\icon.png"
+    },
+    {
+      "relativePath": "gift/Loverscup/icon.png",
+      "size": 3885,
+      "sha256": "2BFEC823BBD5A3972B141F990521CFF3285AA196FD16B81827B43B48C52C7C1F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Loverscup\\icon.png"
+    },
+    {
+      "relativePath": "gift/Lovetogether/icon.png",
+      "size": 4686,
+      "sha256": "304AC2A16E1E9B48B719E3E6B4108F52985004549935E7019FAD96BF60A6A57D",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Lovetogether\\icon.png"
+    },
+    {
+      "relativePath": "gift/Luxuryplane/icon.png",
+      "size": 2458,
+      "sha256": "A3976C8FBF9BDD6304876C798E8EC9F92DC5A916ECBD9AF0E7B55C66FF3F6346",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Luxuryplane\\icon.png"
+    },
+    {
+      "relativePath": "gift/Mangocup/icon.png",
+      "size": 3294,
+      "sha256": "78770E556DA6F6048BAAA2F1C679E501ADA437BBE8C1E2A52D40FABFE3B3DA48",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Mangocup\\icon.png"
+    },
+    {
+      "relativePath": "gift/MidAutumnreunion/icon.png",
+      "size": 4646,
+      "sha256": "A0622716895585CC20A19D420A686045A6AF242D009D0F2D79387E73B884A872",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\MidAutumnreunion\\icon.png"
+    },
+    {
+      "relativePath": "gift/MusicBox/icon.png",
+      "size": 3944,
+      "sha256": "943CE3B4B9675B60226897E2E0348ECD837DCE6E1CC792CD7837C0935B727742",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\MusicBox\\icon.png"
+    },
+    {
+      "relativePath": "gift/NewYearcard/icon.png",
+      "size": 12341,
+      "sha256": "BC95E7D9A04D8A04A1F3B9FDCF69FCDCBC2F22307ACEBDA1D08FA15D73A596A0",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\NewYearcard\\icon.png"
+    },
+    {
+      "relativePath": "gift/Oldmini/icon.png",
+      "size": 3553,
+      "sha256": "6F451F2EA0BD6F525CC65B29C35D0EC2DE31F0C2B394398B12CD1C0130C64AE5",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Oldmini\\icon.png"
+    },
+    {
+      "relativePath": "gift/Orangejuice/icon.png",
+      "size": 2930,
+      "sha256": "12D087B0B9F2EE1115FEABAD5302FDD13DE5FE22357E2B0780784E8E5EF2C091",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Orangejuice\\icon.png"
+    },
+    {
+      "relativePath": "gift/Ormosiacrackers/icon.png",
+      "size": 4556,
+      "sha256": "572C71D5BCF9C1E75FF4A0F6DFBADCC2F108123533DF3B0FC251FAC786531F2A",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Ormosiacrackers\\icon.png"
+    },
+    {
+      "relativePath": "gift/Passionyears/icon.png",
+      "size": 4707,
+      "sha256": "942629BD05C161664FAA01F03FB543933E2B89824C8083D92925D6EAF902E4B4",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Passionyears\\icon.png"
+    },
+    {
+      "relativePath": "gift/Pinkstupidrabbit/icon.png",
+      "size": 4632,
+      "sha256": "5C536A22E302776910240C529E438EF2EAC5ED2E26DC2A67E87177C127D165F4",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Pinkstupidrabbit\\icon.png"
+    },
+    {
+      "relativePath": "gift/Rainbowrose/icon.png",
+      "size": 3545,
+      "sha256": "C192C9ABE5A9EEE29AE1E12C51EE04C2FEBDAD55557ABE809DB411BDA3BF2366",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Rainbowrose\\icon.png"
+    },
+    {
+      "relativePath": "gift/RedPackage/icon.png",
+      "size": 3950,
+      "sha256": "B2BF6EB6141FCF3824586BD1807A7C299652C6CC3FCD2A83E96725B457A93180",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\RedPackage\\icon.png"
+    },
+    {
+      "relativePath": "gift/Redstarshone/icon.png",
+      "size": 3950,
+      "sha256": "58F21D1B2A4AC5E5514EE1C028AFE69978E0C1E212A0B44D3BC64EF7BD3CA513",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Redstarshone\\icon.png"
+    },
+    {
+      "relativePath": "gift/Rubyring/icon.png",
+      "size": 3232,
+      "sha256": "A9BB5E925F54E3D63F06174D63FF3E5A6915681144356D3BDDC008EFC5A5DD34",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Rubyring\\icon.png"
+    },
+    {
+      "relativePath": "gift/SantaClaus/icon.png",
+      "size": 4021,
+      "sha256": "E3F1570FA0B1F725A2BE42617702F92E03E85922DC23806981FD34D87B2AE77E",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\SantaClaus\\icon.png"
+    },
+    {
+      "relativePath": "gift/Senna/icon.png",
+      "size": 3732,
+      "sha256": "8557596A8BDDE52E8C61DDEE84405907DA1581542B590FDC2A6A7C7824A2E37F",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Senna\\icon.png"
+    },
+    {
+      "relativePath": "gift/ShiEnlike/icon.png",
+      "size": 5091,
+      "sha256": "C4008CB247FA1A17607F3B21EBD220274D672B82A2DCDAA9E73B79E82BF00BC2",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\ShiEnlike\\icon.png"
+    },
+    {
+      "relativePath": "gift/Sillybear/icon.png",
+      "size": 4773,
+      "sha256": "E41183F6D6E15FB6ECEEA737CF442F2ACC2149DA3C4EB908B3C5FE77A4C1F878",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Sillybear\\icon.png"
+    },
+    {
+      "relativePath": "gift/Storagetanks/icon.png",
+      "size": 11077,
+      "sha256": "1A66FD2D6E082D82AB679C68AC74C0B814C32C9575A93CBC2F92378E9357D2F9",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Storagetanks\\icon.png"
+    },
+    {
+      "relativePath": "gift/Strawberryeggwhip/icon.png",
+      "size": 2957,
+      "sha256": "5F3244B8C04A182886ACDBCDA96F56A7E93124E6078EB3B443B6F320DA836BD9",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Strawberryeggwhip\\icon.png"
+    },
+    {
+      "relativePath": "gift/Sweetlife/icon.png",
+      "size": 4851,
+      "sha256": "3CF8B171363D71FA2A90806FF9A3BFDA5D6D1A63CC961F4E6E8F2680BB18728B",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Sweetlife\\icon.png"
+    },
+    {
+      "relativePath": "gift/TangXinbox/icon.png",
+      "size": 11953,
+      "sha256": "8C91C129DC8E9DB3C90B68DF2F32A54D62F5B3CA6D52D23E63F94B107D75DD2E",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\TangXinbox\\icon.png"
+    },
+    {
+      "relativePath": "gift/Teachersday/icon.png",
+      "size": 3636,
+      "sha256": "9B1159F03BD8E1AF068308E48745F739E24BE85EFA1AE80DCC4E52D90C350044",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Teachersday\\icon.png"
+    },
+    {
+      "relativePath": "gift/Thanksgiving/icon.png",
+      "size": 4464,
+      "sha256": "184223901E9C3D50507ACAE901193D1C59AF53EECEAD7A422CF24E76D8839480",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Thanksgiving\\icon.png"
+    },
+    {
+      "relativePath": "gift/Wedcake/icon.png",
+      "size": 5111,
+      "sha256": "1976603A8431676F0FC42AAC87C361B87181CF4A24CBC07B839E9DD3CB414748",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Wedcake\\icon.png"
+    },
+    {
+      "relativePath": "gift/Wedchocolate/icon.png",
+      "size": 4516,
+      "sha256": "021AC79E624171F98F0A8B4549BC677E5B0BD1622759052E92A9BE9B1244C16C",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Wedchocolate\\icon.png"
+    },
+    {
+      "relativePath": "gift/Yuanxiaolanterns/icon.png",
+      "size": 12399,
+      "sha256": "24AD672947EF02C9CF640FE9C8F7272072D0F078EFD55EF2A246A1165EEF0088",
+      "source": "E:\\Gunny\\Resource38\\image\\gift\\Yuanxiaolanterns\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall1/icon.png",
+      "size": 1618,
+      "sha256": "DDBC6B6486007235D3680C0019D0EE95011752C363BC1F48724598F2F20A94FA",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall1\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall10/icon.png",
+      "size": 1512,
+      "sha256": "3AFB4ED12EAB30F857A11337BE7D433F998E64764FDA35156D7936D575DAEFC1",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall10\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall11/icon.png",
+      "size": 1711,
+      "sha256": "DFB73B54510D82CA1F380C3BA15AE82DB358616099E91B9F560CE438B4BA5E21",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall11\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall12/icon.png",
+      "size": 1571,
+      "sha256": "893AA119542A180EC5609F36A372E684ADC6FEDBC7DB213BE1BADD1CA6CFE039",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall12\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall13/icon.png",
+      "size": 1414,
+      "sha256": "4E58E2A570998ED27F80D8F52E92FB6D51853CB2CC258D4851962B88F4C5C883",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall13\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall16/icon.png",
+      "size": 3130,
+      "sha256": "D4DE219EB733964DFCAD3F154B46AB36BE034850C4AF015F80E0CA6FDAC0B5C9",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall16\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall2/icon.png",
+      "size": 1600,
+      "sha256": "97ECAB513E831C5673DCD7A6A01C9BA5AC2C11231C87813D5BB2C4484B41DECE",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall2\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall3/icon.png",
+      "size": 1605,
+      "sha256": "3F74CA0274B3003CB399A97B93E1EBF11DC22D92CF7FBC187318E9F7A1906E7C",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall3\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall4/icon.png",
+      "size": 1734,
+      "sha256": "2B562F943912B89899B3CBE8BAF80244BE267D60B52691282546D7BFA062AE72",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall4\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall5/icon.png",
+      "size": 1882,
+      "sha256": "0E735F9B5689C2E6FEA807C53D528E2E2122B96CC603A8DF270325DCEC3EB73B",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall5\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall6/icon.png",
+      "size": 1773,
+      "sha256": "38FCE90201B648A2CC66F55D299E4D1E262BA316A0157F8AC7350DE763E3B9E2",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall6\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall7/icon.png",
+      "size": 1530,
+      "sha256": "1BC237EB9191CC3B9BBCB1B02489D61CD87B8380E42F8D973E2313550E3021D9",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall7\\icon.png"
+    },
+    {
+      "relativePath": "specialprop/chatBall/chatBall8/icon.png",
+      "size": 1491,
+      "sha256": "0FAD43EE2F983D06FEC683D712865313920EBD0113C14A1C141A8D4CFB5237EF",
+      "source": "E:\\Gunny\\Resource38\\image\\specialprop\\chatBall\\chatBall8\\icon.png"
+    },
+    {
+      "relativePath": "unfrightprop/Christmas2/icon.png",
+      "size": 4671,
+      "sha256": "8C3E8E688A1ABE91C7A2DF34104C640DB2138D9E779F96301EFF5B5648B97083",
+      "source": "E:\\Gunny\\Resource38\\image\\unfrightprop\\Christmas2\\icon.png"
+    },
+    {
+      "relativePath": "unfrightprop/MysteriousSPAR/icon.png",
+      "size": 3918,
+      "sha256": "936C1D87AE184387D9A76AE1C9AE36CC0B546C287FB6B6AD88B7BF5C7320F230",
+      "source": "E:\\Gunny\\Resource38\\image\\unfrightprop\\MysteriousSPAR\\icon.png"
+    },
+    {
+      "relativePath": "unfrightprop/Seedofgod/icon.png",
+      "size": 3783,
+      "sha256": "2D8DB241C00B5942CAA34C69ECBD7D5207F858B1296F59D45D3AB7430DE6865E",
+      "source": "E:\\Gunny\\Resource38\\image\\unfrightprop\\Seedofgod\\icon.png"
+    },
+    {
+      "relativePath": "unfrightprop/Seniorseeds/icon.png",
+      "size": 3731,
+      "sha256": "A860A8C0D81015A8D58743797B06A8B254A77F58A30A84B7F26002697080E1EB",
+      "source": "E:\\Gunny\\Resource38\\image\\unfrightprop\\Seniorseeds\\icon.png"
+    }
+  ],
+  "baseCommit": "4ddd0b832e2a69dfca9cf6d66ce013b0cb7bc859",
+  "templateRows": 179,
+  "uniqueFiles": 178,
+  "zipSha256": "8DD8B800A0C0E5D270971CBC6E2CC932D2C4B139CF180BF833A0B5E12A73CB1D",
+  "liveValidation": {
+    "activeTemplatesPresent": "2056/2056",
+    "recoveredHttpHead200": "178/178"
+  }
+}
